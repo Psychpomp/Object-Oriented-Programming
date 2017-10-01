@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dadd1040-2c23-4555-8538-3df5140c8a94" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/LocalHistory/changes.storageData" afterPath="$USER_HOME$/.IdeaIC2017.2/system/LocalHistory/changes.storageData" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/LocalHistory/changes.storageRecordIndex" afterPath="$USER_HOME$/.IdeaIC2017.2/system/LocalHistory/changes.storageRecordIndex" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/attrib.dat.storageData" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/attrib.dat.storageData" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/attrib.dat.storageRecordIndex" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/attrib.dat.storageRecordIndex" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/content.dat.storageData" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/content.dat.storageData" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/content.dat.storageRecordIndex" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/content.dat.storageRecordIndex" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat_i.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/contentHashes.dat_i.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/names.dat_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/caches/records.dat" afterPath="$USER_HOME$/.IdeaIC2017.2/system/caches/records.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.inputs" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.inputs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.inputs.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.inputs.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.inputs_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.inputs_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.class.def.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.inputs" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.inputs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.inputs.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.inputs.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.inputs_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.inputs_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.hierarchy.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.inputs" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.inputs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.inputs.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.inputs.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.inputs_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.inputs_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.member.sign.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.inputs" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.inputs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.inputs.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.inputs.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.inputs_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.inputs_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/back.refs.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/file.path.enum.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/backward-refs/name.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/fs_state.dat" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/fs_state.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToClass.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToClass.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToClass.tab.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToClass.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToClass.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToClass.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSource.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSource.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSource.tab.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSource.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSource.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSource.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSubclasses.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSubclasses.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSubclasses.tab.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSubclasses.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSubclasses.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/classToSubclasses.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/shortNames.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/shortNames.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/shortNames.tab.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/shortNames.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/shortNames.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/shortNames.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/sourceToClass.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/mappings/strings.tab_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/out-target/data" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/out-target/data" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/out-target/data.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/out-target/data.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/out-target/data_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/out-target/data_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/java-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/targets/resources-production/Enigma_Machine_-_Object-Oriented_Programming/src-out/data_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/timestamps/data_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType_i.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/hashesWithFileType_i.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values.values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values.values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values.values.s" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values.values.s" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values_i.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/idindex/values_i.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/todoindex/values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/todoindex/values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/todoindex/values.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/todoindex/values.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/todoindex/values_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/todoindex/values_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values.values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values.values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values.values.s" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values.values.s" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values_i.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/.persistent/trigram.index/values_i.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.project.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.project.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex_inputs" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex_inputs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex_inputs.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex_inputs.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex_inputs_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex_inputs_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage.values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage.values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage.values.s" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes.storage.values.s" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes_inputs" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes_inputs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes_inputs.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes_inputs.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes_inputs_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filetypes/filetypes_inputs_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage.values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage.values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage.values.s" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage.values.s" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/IdIndex.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/fileIdToHashId" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/fileIdToHashId" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/fileIdToHashId_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/idindex/fileIdToHashId_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage.values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage.values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage.values.s" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage.values.s" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs.values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs.values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs.values.s" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs.values.s" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/Stubs_inputs_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.extlist/java.class.extlist.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.extlist/java.class.extlist.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.extlist/java.class.extlist.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.extlist/java.class.extlist.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.fqn/java.class.fqn.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.fqn/java.class.fqn.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.fqn/java.class.fqn.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.fqn/java.class.fqn.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.fqn/java.class.fqn.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.fqn/java.class.fqn.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.project.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.project.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.field.name/java.field.name.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.name/java.method.name.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.method.parameter.types/java.method.parameter.types.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.name/jvm.static.member.name.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/jvm.static.member.type/jvm.static.member.type.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/todoindex/fileIdToHashId" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/todoindex/fileIdToHashId" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/todoindex/fileIdToHashId_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/todoindex/fileIdToHashId_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/Trigram.Index.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/Trigram.Index.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/Trigram.Index.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/Trigram.Index.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/Trigram.Index.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/Trigram.Index.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/fileIdToHashId" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/fileIdToHashId" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/fileIdToHashId_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/trigram.index/fileIdToHashId_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/resource_folder_cache/project_lru_list.dat" afterPath="$USER_HOME$/.IdeaIC2017.2/system/resource_folder_cache/project_lru_list.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/stat/unit.0" afterPath="$USER_HOME$/.IdeaIC2017.2/system/stat/unit.0" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/hashes/172915.cc672d0.5_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.commits.7" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.commits.7" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.commits.7_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.commits.7_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.messages.5" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.messages.5" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.messages.5.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.messages.5.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.messages.5_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.messages.5_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.parents.7" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.parents.7" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.parents.7.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.parents.7.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.parents.7_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.parents.7_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7.keystream" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7.keystream" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7.keystream.len" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7.keystream.len" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths-ids.7_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage.values" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage.values" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.paths.7.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.trigrams.7.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.trigrams.7.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.trigrams.7.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.trigrams.7.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.trigrams.7.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.trigrams.7.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.users.7.storage" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.users.7.storage" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.users.7.storage.values.at" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.users.7.storage.values.at" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.users.7.storage_i" afterPath="$USER_HOME$/.IdeaIC2017.2/system/vcs-log/index/172915.cc672d0.users.7.storage_i" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Data-Structures-and-Elementary-Algorithms" afterPath="$USER_HOME$/Data-Structures-and-Elementary-Algorithms" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/NTUSER.DAT{0fdde7a4-7690-11e6-a400-a057803a514e}.TxR.0.regtrans-ms" afterPath="$USER_HOME$/NTUSER.DAT{0fdde7a4-7690-11e6-a400-a057803a514e}.TxR.0.regtrans-ms" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/NTUSER.DAT{0fdde7a4-7690-11e6-a400-a057803a514e}.TxR.blf" afterPath="$USER_HOME$/NTUSER.DAT{0fdde7a4-7690-11e6-a400-a057803a514e}.TxR.blf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/Dictionary.class" afterPath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/Dictionary.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/InputOutput.class" afterPath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/InputOutput.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/Main.class" afterPath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/Rotors.class" afterPath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/EnigmaMachine/Rotors.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/Interfaces/Interfaces$InputOutputInterface.class" afterPath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/Interfaces/Interfaces$InputOutputInterface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/Interfaces/Interfaces$RotorsInterface.class" afterPath="$PROJECT_DIR$/out/production/Enigma Machine - Object-Oriented Programming/Interfaces/Interfaces$RotorsInterface.class" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/feature.usage.statistics.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/feature.usage.statistics.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/options.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/options.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/recentProjects.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjects.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/statistics.actions.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.actions.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/statistics.application.usages.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.application.usages.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/statistics.shortcuts.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.shortcuts.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/updates.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/updates.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_PLUGINS_DIR$/availables.xml" afterPath="$APPLICATION_PLUGINS_DIR$/availables.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_PLUGINS_DIR$/availables.xml.etag" afterPath="$APPLICATION_PLUGINS_DIR$/availables.xml.etag" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_PLUGINS_DIR$/extensions.xml" afterPath="$APPLICATION_PLUGINS_DIR$/extensions.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/jigsaw/module-info.map" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/jigsaw/module-info.map" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/ustamp" afterPath="$USER_HOME$/.IdeaIC2017.2/system/compile-server/enigma_machine_-_object-oriented_programming_28ee969e/ustamp" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/conversion/Enigma_Machine_-_Object-Oriented_Programming172915.xml" afterPath="$USER_HOME$/.IdeaIC2017.2/system/conversion/Enigma_Machine_-_Object-Oriented_Programming172915.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.project" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/filenameindex/FilenameIndex.project" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.project" afterPath="$USER_HOME$/.IdeaIC2017.2/system/index/stubs/java.class.shortname/java.class.shortname.project" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/log/build-log/build.log" afterPath="$USER_HOME$/.IdeaIC2017.2/system/log/build-log/build.log" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/log/idea.log" afterPath="$USER_HOME$/.IdeaIC2017.2/system/log/idea.log" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.IdeaIC2017.2/system/token" afterPath="$USER_HOME$/.IdeaIC2017.2/system/token" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EnigmaMachine/Dictionary.java" afterPath="$PROJECT_DIR$/src/EnigmaMachine/Dictionary.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EnigmaMachine/InputOutput.java" afterPath="$PROJECT_DIR$/src/EnigmaMachine/InputOutput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EnigmaMachine/Main.java" afterPath="$PROJECT_DIR$/src/EnigmaMachine/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EnigmaMachine/Rotors.java" afterPath="$PROJECT_DIR$/src/EnigmaMachine/Rotors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/Interfaces.java" afterPath="$PROJECT_DIR$/src/Interfaces/Interfaces.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Interfaces.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interfaces/Interfaces.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#1181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputOutput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/InputOutput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="98" column="49" lean-forward="false" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#4434#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#2483#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rotors.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Rotors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="100" column="13" lean-forward="false" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#5217#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotorOrder.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/RotorOrder.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dictionary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Dictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#1180#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1141#1142#0" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/GUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#839#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Reflector.java" />
+        <option value="$PROJECT_DIR$/src/Stack.java" />
+        <option value="$PROJECT_DIR$/src/Rotors.java" />
+        <option value="$PROJECT_DIR$/src/Interface.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Plugboard.java" />
+        <option value="$PROJECT_DIR$/src/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interface.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/Interface.java" />
+        <option value="$PROJECT_DIR$/src/Output/Output.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/OutputInterface.java" />
+        <option value="$PROJECT_DIR$/src/Rotors/Rotors.java" />
+        <option value="$PROJECT_DIR$/src/Dictionary/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/Main/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/RotorInterface.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/RotorsInterface.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/BaseConverterInterface.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/DictionaryInterface.java" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/Output.java" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/GUI.java" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/RotorGen.java" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/Interfaces.java" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/RotorOrder.txt" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/Rotors.java" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/Main.java" />
+        <option value="$PROJECT_DIR$/src/EnigmaMachine/InputOutput.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Enigma Machine - Object-Oriented Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Enigma Machine - Object-Oriented Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Enigma Machine - Object-Oriented Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Enigma Machine - Object-Oriented Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Enigma Machine - Object-Oriented Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Enigma Machine - Object-Oriented Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="EnigmaMachine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Enigma Machine - Object-Oriented Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Enigma Machine - Object-Oriented Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="EnigmaMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="EnigmaMachine.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Enigma Machine - Object-Oriented Programming" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Enigma Machine - Object-Oriented Programming" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dadd1040-2c23-4555-8538-3df5140c8a94" name="Default" comment="" />
+      <created>1504674999246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504674999246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25184017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#1181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/InputOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="39" lean-forward="true" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#4434#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#839#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Rotors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#5217#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1180#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2483#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#1181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#2483#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/InputOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="100" column="32" lean-forward="true" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#4434#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Rotors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#5217#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1180#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interface.java" />
+    <entry file="file://$PROJECT_DIR$/src/Rotors/Rotors.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dictionary/Dictionary.java" />
+    <entry file="file://$PROJECT_DIR$/src/Output/Output.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Rotors/Rotors.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Rotors/Rotors.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Plugboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Rotors/Rotors.java" />
+    <entry file="file://$PROJECT_DIR$/src/Reflector.java" />
+    <entry file="file://$PROJECT_DIR$/src/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interface.java" />
+    <entry file="file://$PROJECT_DIR$/src/Output/Output.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dictionary/Dictionary.java" />
+    <entry file="file://$PROJECT_DIR$/src/Rotors/Rotors.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Dictionary.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Main.java" />
+    <entry file="file://B:/Downloads/CIS210_Examples_In_Java/Enigma/src/enigma/Enigma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/OutputInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/DictionaryInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/BaseConverterInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/RotorsInterface.java" />
+    <entry file="file://B:/Downloads/CIS210_Examples_In_Java/EnCypterInterFaces/src/encypterinterfaces/EnCypterInterFaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="54" lean-forward="false" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://B:/Downloads/CIS210_Examples_In_Java/EnCypterInterFaces/src/encypterinterfaces/EnigmaInterfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="20" lean-forward="false" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://B:/Downloads/CIS210_Examples_In_Java/Enigma/src/enigma/InputOutputClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://B:/Downloads/CIS210_Examples_In_Java/LetterCounter/src/lettercounter/AnalysisClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://B:/Downloads/CIS210_Examples_In_Java/LetterCounter/src/lettercounter/DictionaryClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://B:/Downloads/CIS210_Examples_In_Java/LetterCounter/src/lettercounter/LetterCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/RotorGen.java" />
+    <entry file="file://$PROJECT_DIR$/src/Plugboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#839#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/InputOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="98" column="49" lean-forward="false" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#4434#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#2483#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#1181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#1180#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/RotorOrder.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnigmaMachine/Rotors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="100" column="13" lean-forward="false" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#5217#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Enigma Machine - Object-Oriented Programming</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
