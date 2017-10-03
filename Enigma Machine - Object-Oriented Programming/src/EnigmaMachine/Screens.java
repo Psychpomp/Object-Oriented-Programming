@@ -15,7 +15,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.WindowConstants;
 
-public class GUI implements Runnable {
+public class Screens implements Runnable {
     public void run() {
         JFrame f = new JFrame("Enigma Machine Emulator");
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();

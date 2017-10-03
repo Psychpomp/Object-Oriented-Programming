@@ -13,7 +13,7 @@ import javax.swing.SwingUtilities;
 public class Main {
     public static void main(String[] args) {
         //TODO Clean this mess up
-        //GUI window = new GUI();
+        //Screens window = new Screens();
         //SwingUtilities.invokeLater(window);
         Scanner scr = new Scanner(System.in);
         InputOutput outputInt1 = new InputOutput();
